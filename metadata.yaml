@@ -1,0 +1,35 @@
+_repo: Letters-of-Catherine-Benincasa_7403
+contributor:
+  translator:
+    agent_name: Scudder, Vida Dutton
+    alias: Scudder, Vida D. (Vida Dutton)
+    birthdate: 1861
+    deathdate: 1954
+    gutenberg_agent_id: '38765'
+    url: http://www.gutenberg.org/2009/agents/38765
+creator:
+  author:
+    agent_name: Catherine, of Siena, Saint
+    aliases:
+    - Caterina, da Siena, Saint
+    - Benincasa, Caterina, Saint
+    birthdate: 1347
+    deathdate: 1380
+    gutenberg_agent_id: '2456'
+    url: http://www.gutenberg.org/2009/agents/2456
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_of_Siena
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian women saints -- Italy -- Siena -- Correspondence'
+- !lcc 'BX'
+- !lcsh 'Catherine, of Siena, Saint, 1347-1380 -- Correspondence'
+title: Letters of Catherine Benincasa
+url: http://www.gutenberg.org/ebooks/7403
