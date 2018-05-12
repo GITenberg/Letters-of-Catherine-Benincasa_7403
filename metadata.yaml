@@ -1,4 +1,5 @@
 _repo: Letters-of-Catherine-Benincasa_7403
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Scudder, Vida Dutton
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '38765'
     url: http://www.gutenberg.org/2009/agents/38765
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Catherine, of Siena, Saint
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2456
     wikipedia: http://en.wikipedia.org/wiki/Catherine_of_Siena
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7403#Letters-of-Catherine-Benincasa
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
